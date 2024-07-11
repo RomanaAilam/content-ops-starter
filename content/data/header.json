@@ -4,7 +4,7 @@
             "label": "Pricing",
             "url": "/pricing",
             "icon": "arrowDown",
-            "iconPosition": "right",
+            "iconPosition": "left",
             "style": "secondary",
             "type": "Link"
         },
